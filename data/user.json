@@ -1,0 +1,39 @@
+{
+  "users" : [
+    {
+      "FirstName" : "Bilbo",
+      "LastName" : "Baggins",
+      "EmailAddress" : "bilbo@domain.ca",
+      "Username" : "bbaggins",
+      "Password" : "123456"
+    },
+    {
+      "FirstName" : "Samwise",
+      "LastName" : "Gamgee",
+      "EmailAddress" : "samwise@domain.ca",
+      "Username" : "sgamgee",
+      "Password" : "654321"
+    },
+    {
+      "FirstName" : "Gandalf",
+      "LastName" : "Gray",
+      "EmailAddress" : "gandalf@domain.ca",
+      "Username" : "gthegray",
+      "Password" : "567890"
+    },
+    {
+      "FirstName" : "Rob",
+      "LastName" : "Savoie",
+      "EmailAddress" : "robert.savoie1@dcmail.ca",
+      "Username" : "savoier",
+      "Password" : "password"
+    },
+    {
+      "FirstName" : "Rhys",
+      "LastName" : "Thompson",
+      "EmailAddress" : "rhys.thompson@dcmail.ca",
+      "Username" : "thompsor",
+      "Password" : "password"
+    }
+  ]
+}

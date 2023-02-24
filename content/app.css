@@ -1,0 +1,94 @@
+/*
+Name: Rob Savoie & Rhys Thompson
+Last Update: 1/25/2023
+Current Update: 1/26/2023
+File Name: app.css
+Description: This is our projects.html file. Here we use a different variety of logic and tags that
+go towards creating this page.
+*/
+
+.img-timetable {
+    width: 300px;
+    height: 200px;
+}
+.img-amazon {
+    width: 300px;
+    height: 200px;
+}
+.img-square{
+    width: 300px;
+    height: 300px;
+}
+.img-facebook {
+    width: 300px;
+    height: 200px;
+    padding-left: 40px;
+}
+.img-twitter {
+    width: 300px;
+    height: 200px;
+    padding-left: 40px;
+}
+.img-scaffold {
+    width: 300px;
+    height: 200px;
+}
+.img-parkhub {
+    width: 300px;
+    height: 200px;
+    padding-left: 40px;
+}
+.img-windows7 {
+    width: 300px;
+    height: 200px;
+    padding-left: 40px;
+}
+.img-rhysabu{
+    width: 300px;
+    height: 300px;
+}
+.img-scaffold {
+    width: 300px;
+    height: 200px;
+
+}
+.img-parkhub {
+    width: 300px;
+    height: 200px;
+    padding-left: 40px;
+}
+.img-windows7 {
+    width: 300px;
+    height: 200px;
+    padding-left: 40px;
+}
+.img-rhysabu{
+    width: 300px;
+    height: 300px;
+}
+.background {
+    background-image: url("./images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover, contain;
+}
+.rhysh1 {
+    font-size: large;
+}
+.rhysp1 {
+    font-family: Verdana, serif;
+    font-size: medium;
+}
+.robh1{
+    font-size: large;
+}
+.robp1{
+    font-family: Verdana, serif;
+    font-size: medium;
+}
+.nav-item:hover {
+    background-color: aqua;
+}
+h1 {
+    font-size: 15pt;
+}
+
