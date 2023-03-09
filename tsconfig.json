@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2022",
+    "sourceMap": true,
+    "alwaysStrict": true,
+    "noImplicitReturns": true,
+    "noImplicitAny": true,
+    "strict": true,
+    "removeComments": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictPropertyInitialization": true,
+    "strictBindCallApply": true,
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

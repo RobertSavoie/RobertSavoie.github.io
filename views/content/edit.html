@@ -1,0 +1,35 @@
+<h1 class="mb-3">Edit Contact</h1>
+
+<div id="messageArea"></div>
+
+<div class="row justify-content-lg-center g-3">
+    <form class="col-lg-6 col-md-6 col-sm-6">
+        <div class="input-group mb-3">
+            <span class="input-group-text">Full Name</span>
+            <input type="text" class="form-control" id="fullName" aria-describedby="Input Name"
+                   aria-label="Input Name" required>
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text">Contact #</span>
+            <input type="tel" class="form-control" id="contactNumber" aria-describedby="Input Number"
+                   aria-label="Input Number" required>
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text">Email Address</span>
+            <input type="email" class="form-control" id="email" aria-describedby="Input Email"
+                   aria-label="Input Email" required>
+        </div>
+        <div class="input-group mb-3">
+            <span class="input-group-text">Your Message</span>
+            <textarea type="txt" class="form-control" id="message" name="message" aria-describedby="Input Message"
+                      aria-label="Message Area" required></textarea>
+        </div>
+        <div class="row justify-content-lg-center g-3 mb-1">
+            <button id="EditBtn" type="submit" class="btn btn-primary col-auto">
+                        <i class="fa-solid fa-pen-to-square"></i> Edit</button>
+            <span class="col-auto"></span>
+            <button id="CancelBtn" type="reset" class="btn btn-warning col-auto">
+                        <i class="fa-solid fa-undo"></i> Cancel</button>
+        </div>
+    </form>
+</div>
